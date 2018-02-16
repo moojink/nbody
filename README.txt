@@ -14,3 +14,9 @@ will print the final status of the bodies to standard output, which is used
 to track correctness.
 
 Gradescope Autograder Score: 25.0/25.0
+
+-------------------------------------------------------------------------------
+
+This is Project 0 from UC Berkeley's CS 61B Spring 2017 by Professor Josh Hug:
+http://datastructur.es/sp17/
+
